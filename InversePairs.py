@@ -1,5 +1,5 @@
 def InsertSort(L1):
-    
+    a = 1
 
 # A = Solution()
 # b = A.InversePairs([2,1,4,3,5,0,2,1])
