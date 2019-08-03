@@ -16,7 +16,7 @@ class Solution:
         j = end
         index_copy = end
         count = 0
-        while(i>=start and j >= start + length + 1):
+        while(i >= start and j >= start + length + 1):
             if (data[i] > data[j]):
                 copy[index_copy] = data[i]
                 index_copy -= 1
